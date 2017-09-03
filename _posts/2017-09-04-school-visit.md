@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "First School Visit"
+title: "New Program for School Visits"
 date: 2017-09-04
 ---
 
-Today we welcomed our first group of students through on our new educational
-outreach program.
+Today we welcomed the first group of students to come and visit us and partake in our new tours and role play program.
 
 
