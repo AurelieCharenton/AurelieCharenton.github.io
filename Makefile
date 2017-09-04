@@ -5,7 +5,6 @@ default:
 host:
 	cd ./_site
 	python3 -m http.server &
-	#python -m SimpleHTTPServer &
 
 view:
 	open http://localhost:8000
